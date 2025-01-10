@@ -1,0 +1,16 @@
+{
+    "Name": "L0veRavenCore",
+    "Author": "L0veRaven",
+    "Version": "1.0.0",
+    "Description": "Dependency for L0veRaven's Stardew Valley mods",
+    "UniqueID": "L0veRaven.CoreDLL",
+    "EntryDll": "L0veRavenCore.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [],
+    "Dependencies": [
+       {
+           "UniqueID": "Pathoschild.ContentPatcher",
+           "MinimumVersion": "2.4.0",
+       }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "(DLL) Lewis Wedding Dialogue Fix",
+    "Author": "L0veRaven",
+    "Version": "1.0.0",
+    "Description": "Changes wedding dialogue to allow for less awkward same-gender wedding dialogue and provides gender neutral spouse options!",
+    "UniqueID": "L0veRaven.LWDF_DLL",
+    "EntryDll": "LewisWeddingDialogueFix.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [ "Nexus:" ],
+    "Dependencies": [
+        {
+            "UniqueID": "Pathoschild.ContentPatcher",
+            "IsRequired": false,
+      }
+    ]
+}
