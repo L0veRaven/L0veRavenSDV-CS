@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\L0veRavenSDV\\LewisWeddingDialogueFixVS\\LewisWeddingDialogueFix.csproj",
+      "projectUniqueName": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\LewisWeddingDialogueFixVS\\LewisWeddingDialogueFix.csproj",
       "projectName": "LewisWeddingDialogueFix",
-      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\L0veRavenSDV\\LewisWeddingDialogueFixVS\\LewisWeddingDialogueFix.csproj",
+      "projectPath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\LewisWeddingDialogueFixVS\\LewisWeddingDialogueFix.csproj",
       "packagesPath": "C:\\Users\\cryst\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\L0veRavenSDV\\LewisWeddingDialogueFixVS\\obj\\",
+      "outputPath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\LewisWeddingDialogueFixVS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

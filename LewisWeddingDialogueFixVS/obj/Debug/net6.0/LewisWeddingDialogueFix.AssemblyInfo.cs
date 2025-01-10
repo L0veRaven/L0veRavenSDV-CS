@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LewisWeddingDialogueFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4021222aa1b23604e00c2642992836859669b667")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9acd45c96669fff24720cce5c4682e452c661042")]
 [assembly: System.Reflection.AssemblyProductAttribute("LewisWeddingDialogueFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LewisWeddingDialogueFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/yKCn8B1J8Q=",
+  "dgSpecHash": "WrkZ+ZCPBQQ=",
   "success": true,
-  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\L0veRavenSDV\\LewisWeddingDialogueFixVS\\LewisWeddingDialogueFix.csproj",
+  "projectFilePath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\LewisWeddingDialogueFixVS\\LewisWeddingDialogueFix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cryst\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.3.2\\pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512"
   ],
