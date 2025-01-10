@@ -25,3 +25,12 @@ C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\L0veRavenSDV\L
 C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\L0veRavenSDV\L0veRavenCore\L0veRavenCore\L0veRavenCoreDLL\obj\Debug\net6.0\L0veRavenCore.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\L0veRavenSDV\L0veRavenCore\L0veRavenCore\L0veRavenCoreDLL\obj\Debug\net6.0\L0veRavenCore.sourcelink.json
 C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\L0veRavenSDV\L0veRavenCore\L0veRavenCore\L0veRavenCoreDLL\obj\Debug\net6.0\L0veRavenCore.dll
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\bin\Debug\net6.0\L0veRavenCore.deps.json
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\bin\Debug\net6.0\L0veRavenCore.dll
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.csproj.AssemblyReference.cache
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.AssemblyInfoInputs.cache
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.AssemblyInfo.cs
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.csproj.CoreCompileInputs.cache
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.sourcelink.json
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.dll

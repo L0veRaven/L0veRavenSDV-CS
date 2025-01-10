@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\L0veRavenSDV\\L0veRavenCoreVS\\L0veRavenCoreDLL\\L0veRavenCore.csproj",
+      "projectUniqueName": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
       "projectName": "L0veRavenCore",
-      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\L0veRavenSDV\\L0veRavenCoreVS\\L0veRavenCoreDLL\\L0veRavenCore.csproj",
+      "projectPath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
       "packagesPath": "C:\\Users\\cryst\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\L0veRavenSDV\\L0veRavenCoreVS\\L0veRavenCoreDLL\\obj\\",
+      "outputPath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
