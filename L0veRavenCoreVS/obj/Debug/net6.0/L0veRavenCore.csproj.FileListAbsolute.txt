@@ -34,3 +34,12 @@ C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0
 C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.csproj.CoreCompileInputs.cache
 C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.sourcelink.json
 C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.dll
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\bin\Debug\net6.0\L0veRavenCore.deps.json
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\bin\Debug\net6.0\L0veRavenCore.dll
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.csproj.AssemblyReference.cache
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.AssemblyInfoInputs.cache
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.AssemblyInfo.cs
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.csproj.CoreCompileInputs.cache
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.sourcelink.json
+D:\L0veRavenSDV-CS\L0veRavenCoreVS\obj\Debug\net6.0\L0veRavenCore.dll

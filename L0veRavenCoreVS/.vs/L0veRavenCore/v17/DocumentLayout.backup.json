@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\",
+  "WorkspaceRootPath": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\l0veravencorevs\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|d:\\l0veravensdv-cs\\l0veravencorevs\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|solutionrelative:modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\l0veravencorevs\\icontentpatcherapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|d:\\l0veravensdv-cs\\l0veravencorevs\\icontentpatcherapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|solutionrelative:icontentpatcherapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\l0veravencorevs\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|solutionrelative:manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\l0veravencorevs\\l0veravencore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|d:\\l0veravensdv-cs\\l0veravencorevs\\l0veravencore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|solutionrelative:l0veravencore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -26,55 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "manifest.json",
-              "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\manifest.json",
-              "RelativeDocumentMoniker": "manifest.json",
-              "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\manifest.json",
-              "RelativeToolTip": "manifest.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-10T18:47:04.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "L0veRavenCore",
-              "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
+              "DocumentMoniker": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
               "RelativeDocumentMoniker": "L0veRavenCore.csproj",
-              "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
+              "ToolTip": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
               "RelativeToolTip": "L0veRavenCore.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-07T22:31:51.85Z"
+              "WhenOpened": "2025-01-07T22:31:51.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IContentPatcherAPI.cs",
-              "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\IContentPatcherAPI.cs",
+              "DocumentMoniker": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\IContentPatcherAPI.cs",
               "RelativeDocumentMoniker": "IContentPatcherAPI.cs",
-              "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\IContentPatcherAPI.cs",
+              "ToolTip": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\IContentPatcherAPI.cs",
               "RelativeToolTip": "IContentPatcherAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T18:46:42.472Z"
+              "WhenOpened": "2025-01-10T18:46:42.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ModEntry.cs",
-              "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\ModEntry.cs",
+              "DocumentMoniker": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\ModEntry.cs",
               "RelativeDocumentMoniker": "ModEntry.cs",
-              "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\ModEntry.cs",
+              "ToolTip": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\ModEntry.cs",
               "RelativeToolTip": "ModEntry.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAYwIkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T18:25:59.125Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eBYnKlS6DoQ=",
+  "dgSpecHash": "V+Za982r91M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
+  "projectFilePath": "D:\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cryst\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.3.2\\pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512"
+    "C:\\Users\\Romero\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.3.2\\pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512",
+    "C:\\Users\\Romero\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Romero\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Romero\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
