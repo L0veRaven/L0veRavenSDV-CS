@@ -25,21 +25,99 @@ namespace L0veRavenCore
         private void GameLoop_GameLaunched(object? sender, GameLaunchedEventArgs e)
         {
             var api = this.Helper.ModRegistry.GetApi<IContentPatcherAPI>("Pathoschild.ContentPatcher");
-
-            api.RegisterToken(this.ModManifest, "sixA", () =>
+            
+            api.RegisterToken(this.ModManifest, "sixAM", () =>
             {
-                string sixAm = "600";
+                string rawSixAM = "600";
 
-                // save is loaded
-                if (Context.IsWorldReady)
-                    return new[] { sixAm };
+                var sixAM = api.ParseTokenString(
+                    manifest: this.ModManifest,
+                    rawValue: rawSixAM,
+                    formatVersion: new SemanticVersion("2.4.4")
+                );
 
-                // or save is currently loading
-                if (SaveGame.loaded?.player != null)
-                    return new[] { sixAm };
+                sixAM.UpdateContext();
+                string value = sixAM.Value;
+            });
+            
+            api.RegisterToken(this.ModManifest, "sixTenAM", () =>
+            {
+                string rawSixTenAM = "610";
 
-                // no save loaded (e.g. on the title screen)
-                return new[] { sixAm };
+                var sixTenAM = api.ParseTokenString(
+                    manifest: this.ModManifest,
+                    rawValue: rawSixTenAM,
+                    formatVersion: new SemanticVersion("2.4.4")
+                );
+
+                sixTenAM.UpdateContext();
+                string value = sixTenAM.Value;
+            });
+            
+            api.RegisterToken(this.ModManifest, "sixTwentyAM", () =>
+            {
+                string rawSixTwentyAM = "620";
+
+                var sixTwentyAM = api.ParseTokenString(
+                    manifest: this.ModManifest,
+                    rawValue: rawSixTwentyAM,
+                    formatVersion: new SemanticVersion("2.4.4")
+                );
+
+                sixTwentyAM.UpdateContext();
+                string value = sixTwentyAM.Value;
+            });
+            
+            api.RegisterToken(this.ModManifest, "sixThirtyAM", () =>
+            {
+                string rawSixThirtyAM = "630";
+                var sixThirtyAM = api.ParseTokenString(
+                    manifest: this.ModManifest,
+                    rawValue: rawSixThirtyAM,
+                    formatVersion: new SemanticVersion("2.4.4")
+                );
+
+                sixThirtyAM.UpdateContext();
+                string value = sixThirtyAM.Value;
+            });
+            
+            api.RegisterToken(this.ModManifest, "sixFortyAM", () =>
+            {
+                string rawSixFortyAM = "640";
+                var sixFortyAM = api.ParseTokenString(
+                    manifest: this.ModManifest,
+                    rawValue: rawSixFortyAM,
+                    formatVersion: new SemanticVersion("2.4.4")
+                );
+
+                sixFortyAM.UpdateContext();
+                string value = sixFortyAM.Value;
+            });
+            
+            api.RegisterToken(this.ModManifest, "sixFiftyAM", () =>
+            {
+                string rawSixFiftyAM = "650";
+                var sixFiftyAM = api.ParseTokenString(
+                    manifest: this.ModManifest,
+                    rawValue: rawSixFiftyAM,
+                    formatVersion: new SemanticVersion("2.4.4")
+                );
+
+                sixFiftyAM.UpdateContext();
+                string value = sixFiftyAM.Value;
+            });
+            
+            api.RegisterToken(this.ModManifest, "sevenAM", () =>
+            {
+                string rawSevenAM = "700";
+                var sevenAM = api.ParseTokenString(
+                    manifest: this.ModManifest,
+                    rawValue: rawSevenAM,
+                    formatVersion: new SemanticVersion("2.4.4")
+                );
+
+                sevenAM.UpdateContext();
+                string value = sevenAM.Value;
             });
         }
 
