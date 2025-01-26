@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB523968-912C-4FF3-82A1-EF17EB847AB1}</ProjectGuid>
+    <ProjectGuid>{E4C0B575-557B-41C2-9428-33238DE5717D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>FestraVillage</RootNamespace>
     <AssemblyName>FestraVillage</AssemblyName>
