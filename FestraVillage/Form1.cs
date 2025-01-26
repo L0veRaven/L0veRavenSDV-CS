@@ -16,5 +16,29 @@ namespace FestraVillage
         {
             InitializeComponent();
         }
+
+        private void OnKeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Core.KeyUp)
+                Core.IsUp = true;
+            if (e.KeyCode == Core.KeyDown)
+                Core.IsDown = true;
+            if (e.KeyCode == Core.KeyRight)
+                Core.IsRight = true;
+            if (e.KeyCode == Core.KeyLeft)
+                Core.IsLeft = true;
+        }
+
+        private void OnKeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Core.KeyUp)
+                Core.IsUp = false;
+            if (e.KeyCode == Core.KeyDown)
+                Core.IsDown = false;
+            if (e.KeyCode == Core.KeyRight)
+                Core.IsRight = false;
+            if (e.KeyCode == Core.KeyLeft)
+                Core.IsLeft = false;
+        }
     }
 }

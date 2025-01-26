@@ -1,0 +1,4 @@
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\FestraVillage\obj\Debug\FestraVillage.csproj.AssemblyReference.cache
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\FestraVillage\obj\Debug\FestraVillage.Form1.resources
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\FestraVillage\obj\Debug\FestraVillage.GameObjects.Player.resources
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\FestraVillage\obj\Debug\FestraVillage.csproj.GenerateResource.cache
