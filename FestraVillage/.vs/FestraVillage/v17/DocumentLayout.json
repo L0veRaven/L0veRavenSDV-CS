@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|solutionrelative:gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|solutionrelative:gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\festravillage\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\festravillage\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|solutionrelative:gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\festravillage\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|solutionrelative:gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\festravillage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\festravillage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4C0B575-557B-41C2-9428-33238DE5717D}|FestraVillage.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\GameObjects\\Player.cs",
               "RelativeDocumentMoniker": "GameObjects\\Player.cs",
               "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\GameObjects\\Player.cs",
               "RelativeToolTip": "GameObjects\\Player.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAawCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwCUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T02:37:08.539Z",
               "IsPinned": true,
@@ -61,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
@@ -85,8 +85,7 @@
               "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\FestraVillage\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T02:28:22.366Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-26T02:28:22.366Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAASwCgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T02:29:59.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T02:29:59.672Z"
             }
           ]
         }

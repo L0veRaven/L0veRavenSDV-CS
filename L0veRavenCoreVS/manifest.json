@@ -6,7 +6,7 @@
     "UniqueID": "L0veRaven.CoreDLL",
     "EntryDll": "L0veRavenCore.dll",
     "MinimumApiVersion": "4.0.0",
-    "UpdateKeys": [],
+    "UpdateKeys": ["Nexus:27407"],
     "Dependencies": [
        {
            "UniqueID": "Pathoschild.ContentPatcher",

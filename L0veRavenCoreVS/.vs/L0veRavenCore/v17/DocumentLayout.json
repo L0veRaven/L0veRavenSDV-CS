@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\l0veravencorevs\\l0veravencore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|solutionrelative:l0veravencore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\l0veravencorevs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|c:\\users\\cryst\\onedrive\\desktop\\l0veravensdv-cs\\l0veravencorevs\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C7543CB-321F-48B8-B693-4A8338A9DAD7}|L0veRavenCore.csproj|solutionrelative:manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\manifest.json",
+              "RelativeDocumentMoniker": "manifest.json",
+              "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\manifest.json",
+              "RelativeToolTip": "manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T04:08:27.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T04:07:41.616Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -33,7 +71,8 @@
               "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\L0veRavenCore.csproj",
               "RelativeToolTip": "L0veRavenCore.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-07T22:31:51.85Z"
+              "WhenOpened": "2025-01-07T22:31:51.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -43,7 +82,7 @@
               "RelativeDocumentMoniker": "IContentPatcherAPI.cs",
               "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\IContentPatcherAPI.cs",
               "RelativeToolTip": "IContentPatcherAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T18:46:42.472Z",
               "EditorCaption": ""
@@ -56,7 +95,7 @@
               "RelativeDocumentMoniker": "ModEntry.cs",
               "ToolTip": "C:\\Users\\cryst\\OneDrive\\Desktop\\L0veRavenSDV-CS\\L0veRavenCoreVS\\ModEntry.cs",
               "RelativeToolTip": "ModEntry.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAmwBoAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T18:25:59.125Z",
               "EditorCaption": ""
