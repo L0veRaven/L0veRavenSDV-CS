@@ -1,0 +1,9 @@
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\obj\Debug\net6.0\WeddingDialogueFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\obj\Debug\net6.0\WeddingDialogueFix.AssemblyInfoInputs.cache
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\obj\Debug\net6.0\WeddingDialogueFix.AssemblyInfo.cs
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\obj\Debug\net6.0\WeddingDialogueFix.csproj.CoreCompileInputs.cache
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\obj\Debug\net6.0\WeddingDialogueFix.sourcelink.json
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\obj\Debug\net6.0\WeddingDialogueFix.csproj.AssemblyReference.cache
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\bin\Debug\net6.0\WeddingDialogueFix.deps.json
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\bin\Debug\net6.0\WeddingDialogueFix.dll
+C:\Users\cryst\OneDrive\Desktop\L0veRavenSDV-CS\WeddingDialogueFix\obj\Debug\net6.0\WeddingDialogueFix.dll

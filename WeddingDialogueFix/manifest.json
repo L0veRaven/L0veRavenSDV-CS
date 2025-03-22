@@ -1,0 +1,8 @@
+{
+    "Name": "Wedding Dialogue Fix - DLL",
+    "Author": "L0veRaven",
+    "Version": "1.0.0",
+    "Description": "Automatically backs up all your saves once per day into its folder.",
+    "UniqueID": "L0veRaven.WeddingDialogueFixDLL",
+    "EntryDll": "WeddingDialogueFix.dll",
+}
