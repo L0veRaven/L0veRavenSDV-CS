@@ -1,0 +1,11 @@
+{
+    "Name": "L0veRavenCore - DLL",
+    "Author": "L0veRaven",
+    "Version": "1.0.0",
+    "Description": "Tokens for L0veRaven mods.",
+    "UniqueID": "L0veRaven.CoreDLL",
+    "EntryDll": "L0veRavenCore.dll",
+    "Dependencies": [
+       { "UniqueID": "Pathoschild.ContentPatcher", "IsRequired": false }
+    ]
+}

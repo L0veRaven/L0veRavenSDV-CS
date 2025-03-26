@@ -45,17 +45,16 @@ namespace WeddingDialogueFix
 
             api.RegisterToken(this.ModManifest, "FarmerMarriesFarmer", () =>
             {
-                if (GameStateQuery.CheckConditions("PLAYER_PLAYER_RELATIONSHIP") == true)
-                {
-                    this.Monitor.Log($"{Game1.player.Name} is with another farmer.", LogLevel.Debug);
-                    return true;
-                }
+                // save is loaded
+                if (Context.IsWorldReady)
+                    return new[] { GameStateQuery.CheckConditions("PLAYER_PLAYER_RELATIONSHIP", player) == "engaged" };
 
-                else
-                {
-                    this.Monitor.Log($"{Game1.player.Name} isn't with another farmer.", LogLevel.Debug);
-                    return false;
-                }
+                // or save is currently loading
+                if (SaveGame.loaded?.player != null)
+                    return new[] { SaveGame.loaded.player.Name };
+
+                // no save loaded (e.g. on the title screen)
+                return null;
             });
         }
 
